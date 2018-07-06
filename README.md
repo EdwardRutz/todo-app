@@ -36,11 +36,11 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
 
 ## Sources
 
 - [Sweet Alert](https://sweetalert.js.org/)
 - [https://semantic-ui.com/](https://semantic-ui.com/)
 - [Scotch Vue JS Todo Tutorial](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
+- [guide](http://vuejs-templates.github.io/webpack/)  
+- [docs for vue-loader](http://vuejs.github.io/vue-loader).
